@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beepbeep": "^1.2.2",
+    "cat-ascii-faces": "^2.0.0"
+  }
+}
